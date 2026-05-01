@@ -1,105 +1,107 @@
 {
-  "current": {
-    "title": "Atomic Habits",
-    "author": "James Clear",
-    "isbn": "9780735211292",
-    "pages": 320,
-    "weeks": 8,
-    "introduction": "James Clear's Atomic Habits is the most practical, actionable guide to habit change ever written. Instead of relying on motivation or willpower, Clear gives you a four-law framework that makes good habits inevitable and bad habits impossible. Whether you want to read more, exercise consistently, or break a stubborn pattern, this book will change how you think about change itself.",
-    "buy_me_a_coffee": "https://www.buymeacoffee.com/bryjogar",
-    "supplementary": [
-      {
-        "title": "James Clear's Habits Academy",
-        "url": "https://jamesclear.com/habits-academy"
-      },
-      {
-        "title": "Atomic Habits Cheat Sheet",
-        "url": "https://jamesclear.com/atomic-habits/cheat-sheet"
-      }
-    ],
-    "reading_schedule": [
-      {
-        "week": 1,
-        "chapters": "Introduction + The Fundamentals (Ch. 1-3)",
-        "icebreaker": "What is one small thing you do every day that you don't even think about anymore?",
-        "questions": [
-          "Clear says 'you do not rise to the level of your goals; you fall to the level of your systems.' Think about a goal you have been chasing. What is the system (or lack of one) behind it?",
-          "Clear distinguishes between outcome-based habits and identity-based habits. Which approach have you used in the past, and which do you think would be more sustainable for the habit you want to build right now?"
-        ],
-        "application": "Pick one identity you want to claim ('I am a reader,' 'I am a runner,' etc.). What is one tiny habit you can start TODAY that would be a vote for that identity?"
-      },
-      {
-        "week": 2,
-        "chapters": "The 1st Law: Make It Obvious (Ch. 4-7)",
-        "icebreaker": "Think about your morning routine. What is the very first thing you do after waking up?",
-        "questions": [
-          "Implementation intentions ('I will [BEHAVIOR] at [TIME] in [LOCATION]') are deceptively simple. Try writing one for a habit you have been struggling with. Does the specificity change how the habit feels?",
-          "Clear says 'the most powerful way to change your habits is to change your environment.' What is one change to your physical space that would make a good habit easier or a bad habit harder?"
-        ],
-        "application": "This week, redesign one small part of your environment (a counter, a phone screen, a drawer) to cue a habit you want to build. What did you change and what happened?"
-      },
-      {
-        "week": 3,
-        "chapters": "The 2nd Law: Make It Attractive (Ch. 8-11)",
-        "icebreaker": "What's a habit someone in your household or friend group has that you accidentally picked up?",
-        "questions": [
-          "Clear discusses temptation bundling \u2014 pairing something you want to do with something you need to do. What is one temptation bundle that might actually work in your life?",
-          "The book says we imitate the habits of three groups: the close, the many, and the powerful. Who are the people whose habits you have absorbed \u2014 for better or worse?"
-        ],
-        "application": "Identify one person or group that models a habit you want to build. What is one step you can take this week to spend more time around that influence?"
-      },
-      {
-        "week": 4,
-        "chapters": "The 3rd Law: Make It Easy (Ch. 12-15)",
-        "icebreaker": "What's something you keep telling yourself you'll start 'next week' or 'next month'?",
-        "questions": [
-          "The two-minute rule says any new habit should take less than two minutes to start. What is the two-minute version of a habit you have been avoiding?",
-          "Think about a bad habit you want to break. What friction could you add to make it harder to do? Be honest \u2014 the friction needs to be annoying enough to stop you."
-        ],
-        "application": "This week, identify one 'decisive moment' in your day where a small choice determines what happens next. What could you pre-decide to make the right choice automatic?"
-      },
-      {
-        "week": 5,
-        "chapters": "The 4th Law: Make It Satisfying (Ch. 16-19)",
-        "icebreaker": "Think of a time someone surprised you by remembering something about you. How did that feel?",
-        "questions": [
-          "Clear says 'what is immediately rewarded is repeated.' Good habits tend to have delayed rewards; bad habits have immediate ones. How can you bring the reward for a good habit forward?",
-          "'Never miss twice' might be the most important rule in the book. Share a story of a time you missed once and let it become a slide \u2014 and what you could have done differently."
-        ],
-        "application": "Set up a simple habit tracker for one habit this week \u2014 even if it's just an X on a calendar. Did the visual progress change anything about your motivation?"
-      },
-      {
-        "week": 6,
-        "chapters": "Advanced Tactics (Ch. 20)",
-        "icebreaker": "What is a skill or hobby you used to be really into but have somehow drifted away from?",
-        "questions": [
-          "The Goldilocks Rule says we are most motivated when working on tasks at the edge of our ability. Is there an area of your life where you are bored because things are too easy \u2014 or anxious because they are too hard?",
-          "Clear recommends an annual review and an integrity report. Without waiting for the end of the year, what would a quick integrity report look like for you right now?"
-        ],
-        "application": "Pick one habit you have been doing consistently. How could you increase the difficulty slightly this week to re-engage the Goldilocks Rule?"
-      },
-      {
-        "week": 7,
-        "chapters": "Putting It All Together: Designing Your System",
-        "icebreaker": "If you could design your ideal morning routine with no constraints, what would it look like?",
-        "questions": [
-          "If you had to design a complete habit system for just one area of your life (health, work, relationships, faith), what would it look like? Walk through how each of the four laws would apply.",
-          "What is one habit you have tried and failed to build multiple times? Based on the four laws, where do you think the system broke down?"
-        ],
-        "application": "This week, conduct a full habit scorecard on your daily routine (list every behavior and label it +, -, or =). What patterns emerge that you did not expect?"
-      },
-      {
-        "week": 8,
-        "chapters": "Conclusion: The Secret to Results That Last",
-        "icebreaker": "What's one thing you want to be true about your daily life a year from now?",
-        "questions": [
-          "Clear closes by saying 'you do not need to change everything at once.' If you could pick only one habit from this entire book to implement and keep for the next year, which would it be and why?",
-          "The book argues that habits are the path to becoming who you want to be. Has your sense of who you want to become changed over these eight weeks?"
-        ],
-        "application": "Write a one-paragraph 'habit philosophy' for yourself \u2014 your personal take on what you have learned from this book. Then share it with someone in your life next week."
-      }
-    ]
-  },
+  "current": null,
   "upcoming": null,
-  "past": []
+  "past": [
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "isbn": "9780735211292",
+      "pages": 320,
+      "weeks": 8,
+      "introduction": "James Clear's Atomic Habits is the most practical, actionable guide to habit change ever written. Instead of relying on motivation or willpower, Clear gives you a four-law framework that makes good habits inevitable and bad habits impossible. Whether you want to read more, exercise consistently, or break a stubborn pattern, this book will change how you think about change itself.",
+      "buy_me_a_coffee": "https://www.buymeacoffee.com/bryjogar",
+      "supplementary": [
+        {
+          "title": "James Clear's Habits Academy",
+          "url": "https://jamesclear.com/habits-academy"
+        },
+        {
+          "title": "Atomic Habits Cheat Sheet",
+          "url": "https://jamesclear.com/atomic-habits/cheat-sheet"
+        }
+      ],
+      "reading_schedule": [
+        {
+          "week": 1,
+          "chapters": "Introduction + The Fundamentals (Ch. 1-3)",
+          "icebreaker": "What is one small thing you do every day that you don't even think about anymore?",
+          "questions": [
+            "Clear says 'you do not rise to the level of your goals; you fall to the level of your systems.' Think about a goal you have been chasing. What is the system (or lack of one) behind it?",
+            "Clear distinguishes between outcome-based habits and identity-based habits. Which approach have you used in the past, and which do you think would be more sustainable for the habit you want to build right now?"
+          ],
+          "application": "Pick one identity you want to claim ('I am a reader,' 'I am a runner,' etc.). What is one tiny habit you can start TODAY that would be a vote for that identity?"
+        },
+        {
+          "week": 2,
+          "chapters": "The 1st Law: Make It Obvious (Ch. 4-7)",
+          "icebreaker": "Think about your morning routine. What is the very first thing you do after waking up?",
+          "questions": [
+            "Implementation intentions ('I will [BEHAVIOR] at [TIME] in [LOCATION]') are deceptively simple. Try writing one for a habit you have been struggling with. Does the specificity change how the habit feels?",
+            "Clear says 'the most powerful way to change your habits is to change your environment.' What is one change to your physical space that would make a good habit easier or a bad habit harder?"
+          ],
+          "application": "This week, redesign one small part of your environment (a counter, a phone screen, a drawer) to cue a habit you want to build. What did you change and what happened?"
+        },
+        {
+          "week": 3,
+          "chapters": "The 2nd Law: Make It Attractive (Ch. 8-11)",
+          "icebreaker": "What's a habit someone in your household or friend group has that you accidentally picked up?",
+          "questions": [
+            "Clear discusses temptation bundling \u2014 pairing something you want to do with something you need to do. What is one temptation bundle that might actually work in your life?",
+            "The book says we imitate the habits of three groups: the close, the many, and the powerful. Who are the people whose habits you have absorbed \u2014 for better or worse?"
+          ],
+          "application": "Identify one person or group that models a habit you want to build. What is one step you can take this week to spend more time around that influence?"
+        },
+        {
+          "week": 4,
+          "chapters": "The 3rd Law: Make It Easy (Ch. 12-15)",
+          "icebreaker": "What's something you keep telling yourself you'll start 'next week' or 'next month'?",
+          "questions": [
+            "The two-minute rule says any new habit should take less than two minutes to start. What is the two-minute version of a habit you have been avoiding?",
+            "Think about a bad habit you want to break. What friction could you add to make it harder to do? Be honest \u2014 the friction needs to be annoying enough to stop you."
+          ],
+          "application": "This week, identify one 'decisive moment' in your day where a small choice determines what happens next. What could you pre-decide to make the right choice automatic?"
+        },
+        {
+          "week": 5,
+          "chapters": "The 4th Law: Make It Satisfying (Ch. 16-19)",
+          "icebreaker": "Think of a time someone surprised you by remembering something about you. How did that feel?",
+          "questions": [
+            "Clear says 'what is immediately rewarded is repeated.' Good habits tend to have delayed rewards; bad habits have immediate ones. How can you bring the reward for a good habit forward?",
+            "'Never miss twice' might be the most important rule in the book. Share a story of a time you missed once and let it become a slide \u2014 and what you could have done differently."
+          ],
+          "application": "Set up a simple habit tracker for one habit this week \u2014 even if it's just an X on a calendar. Did the visual progress change anything about your motivation?"
+        },
+        {
+          "week": 6,
+          "chapters": "Advanced Tactics (Ch. 20)",
+          "icebreaker": "What is a skill or hobby you used to be really into but have somehow drifted away from?",
+          "questions": [
+            "The Goldilocks Rule says we are most motivated when working on tasks at the edge of our ability. Is there an area of your life where you are bored because things are too easy \u2014 or anxious because they are too hard?",
+            "Clear recommends an annual review and an integrity report. Without waiting for the end of the year, what would a quick integrity report look like for you right now?"
+          ],
+          "application": "Pick one habit you have been doing consistently. How could you increase the difficulty slightly this week to re-engage the Goldilocks Rule?"
+        },
+        {
+          "week": 7,
+          "chapters": "Putting It All Together: Designing Your System",
+          "icebreaker": "If you could design your ideal morning routine with no constraints, what would it look like?",
+          "questions": [
+            "If you had to design a complete habit system for just one area of your life (health, work, relationships, faith), what would it look like? Walk through how each of the four laws would apply.",
+            "What is one habit you have tried and failed to build multiple times? Based on the four laws, where do you think the system broke down?"
+          ],
+          "application": "This week, conduct a full habit scorecard on your daily routine (list every behavior and label it +, -, or =). What patterns emerge that you did not expect?"
+        },
+        {
+          "week": 8,
+          "chapters": "Conclusion: The Secret to Results That Last",
+          "icebreaker": "What's one thing you want to be true about your daily life a year from now?",
+          "questions": [
+            "Clear closes by saying 'you do not need to change everything at once.' If you could pick only one habit from this entire book to implement and keep for the next year, which would it be and why?",
+            "The book argues that habits are the path to becoming who you want to be. Has your sense of who you want to become changed over these eight weeks?"
+          ],
+          "application": "Write a one-paragraph 'habit philosophy' for yourself \u2014 your personal take on what you have learned from this book. Then share it with someone in your life next week."
+        }
+      ]
+    }
+  ]
 }
