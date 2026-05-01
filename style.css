@@ -1,0 +1,196 @@
+/* === Book Club Styles === */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 16px; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, sans-serif;
+  line-height: 1.7;
+  color: #1a1a2e;
+  background: #f8f9fa;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.container { max-width: 720px; margin: 0 auto; padding: 0 1.5rem; }
+
+/* Nav */
+.nav {
+  background: #1a1a2e;
+  color: #fff;
+  padding: 1rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+.nav-inner { display: flex; align-items: center; gap: 1rem; }
+.nav-brand { color: #fff; text-decoration: none; font-weight: 700; font-size: 1.2rem; }
+.nav-brand:hover { color: #a8d8ea; }
+.nav-link { color: #ccc; text-decoration: none; font-size: 0.85rem; padding: 0.3rem 0.6rem; border-radius: 4px; }
+.nav-link:hover { background: rgba(255,255,255,0.1); color: #fff; }
+
+/* Footer */
+.footer { margin-top: auto; background: #1a1a2e; color: #666; padding: 1.5rem 0; text-align: center; font-size: 0.85rem; }
+.bmc-link { color: #f1c40f; text-decoration: none; font-weight: 600; }
+.bmc-link:hover { text-decoration: underline; }
+main { flex: 1; padding: 2rem 0; }
+
+/* === Index Page === */
+
+/* Current Book Hero */
+.current-book {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  color: #fff;
+  padding: 2.5rem 2rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  position: relative;
+}
+.current-ribbon {
+  display: inline-block;
+  background: #e74c3c;
+  color: #fff;
+  padding: 0.2rem 0.8rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 1rem;
+}
+.current-book h2 { font-size: 1.8rem; font-weight: 800; margin-bottom: 0.25rem; line-height: 1.2; }
+.current-book .book-author { color: #a8d8ea; font-size: 1rem; margin-bottom: 1rem; }
+.current-book .book-intro { color: #ccc; font-size: 0.95rem; line-height: 1.6; margin-bottom: 1.5rem; }
+.btn {
+  display: inline-block;
+  background: #4a6fa5;
+  color: #fff;
+  padding: 0.65rem 1.5rem;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+.btn:hover { background: #5d82b8; }
+
+/* Upcoming Book */
+.upcoming-book { margin-bottom: 2rem; }
+.upcoming-book h3 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #888;
+  margin-bottom: 0.75rem;
+}
+.upcoming-card {
+  background: #fff;
+  border: 1px dashed #ccc;
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+}
+.upcoming-card h4 { font-size: 1.1rem; font-weight: 600; margin-bottom: 0.15rem; }
+.upcoming-card .book-author { color: #666; font-size: 0.9rem; }
+
+/* Past Books */
+.past-books { margin-bottom: 2rem; }
+.past-books h3 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #888;
+  margin-bottom: 0.75rem;
+}
+.past-books ul { list-style: none; }
+.past-books li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+.past-books a { color: #4a6fa5; text-decoration: none; font-weight: 500; }
+.past-books a:hover { text-decoration: underline; }
+.past-author { color: #888; font-size: 0.9rem; }
+
+/* === Book Detail Page === */
+.book-header { margin-bottom: 2rem; }
+.book-header h1 { font-size: 1.75rem; font-weight: 800; line-height: 1.3; margin-bottom: 0.2rem; }
+.book-header .book-author { color: #555; font-size: 1.05rem; margin-bottom: 0.5rem; }
+.book-details { display: flex; gap: 1.5rem; font-size: 0.85rem; color: #666; margin-bottom: 0.75rem; flex-wrap: wrap; }
+.book-desc { color: #444; font-size: 0.95rem; line-height: 1.6; margin-bottom: 1.5rem; }
+
+/* Week Nav */
+.week-nav {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  align-items: baseline;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  font-size: 0.85rem;
+}
+.week-jump {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  background: #e8ecf1;
+  border-radius: 4px;
+  color: #4a6fa5;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+.week-jump:hover { background: #d0d8e3; }
+
+/* Weekly Sections */
+.week {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+}
+.week-header {
+  display: flex;
+  gap: 0.75rem;
+  align-items: baseline;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+.week-num {
+  font-weight: 700; font-size: 0.78rem; color: #4a6fa5;
+  background: #e2e8f0; padding: 0.2rem 0.6rem; border-radius: 4px;
+  text-transform: uppercase; letter-spacing: 0.05em;
+}
+.week-header h2 { font-size: 1.05rem; font-weight: 600; flex: 1; }
+.week-pages { font-size: 0.8rem; color: #888; }
+
+/* Questions */
+.questions { list-style: none; }
+.question {
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  background: #f0f4f8;
+  border-radius: 6px;
+  border-left: 3px solid #4a6fa5;
+  font-size: 0.93rem;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Supplementary */
+.supplementary { margin-top: 2rem; }
+.supplementary h2 { font-size: 1.1rem; font-weight: 700; margin-bottom: 0.5rem; }
+.supplementary ul { list-style: disc; padding-left: 1.5rem; font-size: 0.9rem; }
+.supplementary li { margin-bottom: 0.25rem; }
+.supplementary a { color: #4a6fa5; text-decoration: none; }
+.supplementary a:hover { text-decoration: underline; }
+
+/* Responsive */
+@media (max-width: 640px) {
+  .current-book { padding: 1.5rem; }
+  .current-book h2 { font-size: 1.4rem; }
+  .book-details { flex-direction: column; gap: 0.25rem; }
+  .week-nav { flex-direction: column; }
+}
