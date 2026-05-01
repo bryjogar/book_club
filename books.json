@@ -1,5 +1,96 @@
 {
-  "current": null,
+  "current": {
+    "title": "The Servant: A Simple Story About the True Essence of Leadership",
+    "author": "James C. Hunter",
+    "isbn": "9780761513698",
+    "pages": 208,
+    "weeks": 8,
+    "introduction": "The Servant is a leadership parable set in a monastery \u2014 and it might change how you think about leading your team forever. John Daily, a successful but overwhelmed executive, reluctantly attends a week-long retreat at a Benedictine monastery. Through conversations with a wise monk named Simeon, John confronts the difference between power and authority, the meaning of real leadership, and a definition of love that turns everything upside down. Short, readable, and packed with discussions that will hit close to home for anyone who works with people.",
+    "buy_me_a_coffee": "https://www.buymeacoffee.com/bryjogar",
+    "supplementary": [],
+    "reading_schedule": [
+      {
+        "week": 1,
+        "chapters": "Part 1 \u2014 John's Crisis & The Arrival",
+        "icebreaker": "If you had to leave your life behind for a week-long silent retreat, what's the first thing you'd notice yourself craving?",
+        "questions": [
+          "John Daily is described as outwardly successful but inwardly falling apart. His marriage is strained, his team isn't performing, and he doesn't know why. Have you ever felt that gap between how things look from the outside and how they feel from the inside? What cracked first?",
+          "The book opens with John being told he needs to 'learn how to lead.' He's defensive \u2014 he has the title, the corner office, the resume. What's the difference between having a leadership title and actually being a leader?"
+        ],
+        "application": "This week, identify one relationship at work or home where you've been relying on your positional authority (your title, your role, your 'because I said so') instead of earning real authority. What would it look like to lead from who you are rather than your position?"
+      },
+      {
+        "week": 2,
+        "chapters": "Part 2 \u2014 The Definitions: Power vs. Authority",
+        "icebreaker": "Think of a leader \u2014 at work, church, or in your life \u2014 who made you feel truly seen and valued. What did they do that made the difference?",
+        "questions": [
+          "Simeon defines leadership as 'the skill of influencing people to work enthusiastically toward goals identified as being for the common good.' He draws a hard line between power (the ability to force or coerce) and authority (the skill of getting people to willingly follow). Where have you seen power used when authority was needed?",
+          "Hunter argues that authority is built through service, not through position. This is deeply countercultural \u2014 most leadership advice tells you to assert, project confidence, take charge. What makes service feel risky as a leadership strategy?"
+        ],
+        "application": "Think of one person on your team you've been trying to 'manage' or 'fix' rather than serve. This week, do one concrete thing for them that has no agenda \u2014 no feedback attached, no expectation of return. See what changes."
+      },
+      {
+        "week": 3,
+        "chapters": "Part 3 \u2014 The Paradox of Leadership",
+        "icebreaker": "When you hear the phrase 'servant leader,' what image comes to mind? Does it feel strong or weak?",
+        "questions": [
+          "Simeon introduces a paradox: the greatest leader is the servant of all. This is not a new idea \u2014 Jesus said the same thing. But Hunter argues it's not just a spiritual truth \u2014 it's a practical one. Do you believe that serving your team makes you a stronger leader, or does it feel like a way to get taken advantage of?",
+          "John struggles with this because it sounds soft. But Simeon clarifies that servant leadership doesn't mean being a doormat \u2014 it means having the courage to hold people accountable while also caring for them. Where have you seen leaders fail at this balance \u2014 either too soft or too hard?"
+        ],
+        "application": "Pick one leadership relationship this week where you need to hold someone accountable. Before the conversation, ask yourself: 'Am I doing this for them or to them?' Let the answer shape how you have the conversation."
+      },
+      {
+        "week": 4,
+        "chapters": "Part 4 \u2014 Love (Agape) in Leadership",
+        "icebreaker": "What's the most loving thing a leader has ever done for you \u2014 and how did it affect your respect for them?",
+        "questions": [
+          "Simeon defines love not as a feeling but as a choice: 'the will to extend yourself for the sake of another.' He's talking about agape \u2014 the kind of love that's an action, not an emotion. How does this definition hit differently from what we usually mean by 'love'?",
+          "Hunter says you can lead people you don't like \u2014 because love is a choice, not a feeling. But actually doing that is hard. Think of someone you find difficult to lead. What would it look like to choose to will their good, even without warm feelings?"
+        ],
+        "application": "This week, pick one person you work with who frustrates you or drains you. Without announcing it, choose one small way to 'extend yourself for their sake' \u2014 a word of encouragement, taking something off their plate, listening without interrupting. Notice what shifts \u2014 in them, and in you."
+      },
+      {
+        "week": 5,
+        "chapters": "Part 5 \u2014 The Five Signs of a Servant Leader",
+        "icebreaker": "If someone on your team had to describe your leadership in three words, what do you hope they'd say?",
+        "questions": [
+          "Hunter outlines five characteristics of a servant leader: patience, kindness, humility, respect, and selflessness. He presents them not as soft virtues but as hard leadership skills. Which of these five comes most naturally to you, and which one would your team say you're lacking?",
+          "The paradox is that these qualities sound simple but are brutally hard to practice consistently \u2014 especially under pressure. When are you most likely to drop one of these five? What triggers it?"
+        ],
+        "application": "Pick one of the five characteristics that you know is a weakness for you. This week, set a daily phone reminder with that one word. At the end of each day, ask yourself: 'Did I lead with [patience/kindness/humility/respect/selflessness] today? Where did I fail and where did I succeed?'"
+      },
+      {
+        "week": 6,
+        "chapters": "Part 6 \u2014 Building a Healthy Environment",
+        "icebreaker": "What's one thing about your current work environment that makes it easier to do your best work?",
+        "questions": [
+          "Simeon teaches that the leader's job is to create an environment where people can thrive \u2014 not by controlling them but by removing obstacles and modeling the behavior you want to see. How would your team describe the environment you've created? Would they say 'I can grow here' or 'I just work here'?",
+          "Hunter argues that the leader sets the thermostat \u2014 the leader's behavior determines the culture, not the other way around. When have you blamed 'the culture' instead of recognizing that you, as a leader, are the culture?"
+        ],
+        "application": "This week, identify one specific aspect of your team's environment that isn't serving them (a meeting that wastes time, unclear expectations, a lack of recognition, etc.). Fix it \u2014 or at least name it and start a conversation about it. Don't just complain about it."
+      },
+      {
+        "week": 7,
+        "chapters": "Part 7 \u2014 The Choice & Accountability",
+        "icebreaker": "Tell us about a time someone called you out in a way that actually helped you grow \u2014 not just criticism, but loving accountability.",
+        "questions": [
+          "Simeon makes it clear that servant leadership is a choice \u2014 a daily, sometimes hourly choice. John must decide whether he will go back to his old life and actually live differently. What's standing between you and a real change in how you lead?",
+          "Hunter argues that accountability is an act of love \u2014 holding people to a standard because you believe in them, not because you want to punish them. Where have you seen accountability done well, and where have you seen it done poorly? What made the difference?"
+        ],
+        "application": "Have an honest conversation with one person who knows you well \u2014 a coworker, a spouse, a friend. Ask them: 'Where do I fall short as a leader? Where do I get in my own way?' Then listen without defending. Don't explain. Just listen."
+      },
+      {
+        "week": 8,
+        "chapters": "Part 8 \u2014 The Return: Living It Out",
+        "icebreaker": "This is our last week. What's one thing from this book that you don't want to forget \u2014 something that actually stuck?",
+        "questions": [
+          "John returns home and has to actually live what he learned \u2014 and it's harder than the week at the monastery. Real change always is. What's the difference between knowing what you should do and actually doing it consistently?",
+          "Hunter's core claim is that servant leadership works \u2014 not just in theory but in results \u2014 because people willingly follow leaders who serve them. Has your experience this summer borne that out? Where have you seen it work? Where have you struggled to believe it?"
+        ],
+        "application": "Write a one-paragraph 'leadership philosophy' \u2014 your personal take on what you've learned from this book and how you want to lead going forward. Share it with the group next time you meet, and keep it somewhere you'll see it when you need the reminder."
+      }
+    ]
+  },
   "upcoming": null,
   "past": [
     {
