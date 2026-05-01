@@ -6,10 +6,16 @@
     "pages": 320,
     "weeks": 8,
     "introduction": "James Clear's Atomic Habits is the most practical, actionable guide to habit change ever written. Instead of relying on motivation or willpower, Clear gives you a four-law framework that makes good habits inevitable and bad habits impossible. Whether you want to read more, exercise consistently, or break a stubborn pattern, this book will change how you think about change itself.",
-    "buy_me_a_coffee": "https://www.buymeacoffee.com/bryangarrison",
+    "buy_me_a_coffee": "https://www.buymeacoffee.com/bryjogar",
     "supplementary": [
-      {"title": "James Clear's Habits Academy", "url": "https://jamesclear.com/habits-academy"},
-      {"title": "Atomic Habits Cheat Sheet", "url": "https://jamesclear.com/atomic-habits/cheat-sheet"}
+      {
+        "title": "James Clear's Habits Academy",
+        "url": "https://jamesclear.com/habits-academy"
+      },
+      {
+        "title": "Atomic Habits Cheat Sheet",
+        "url": "https://jamesclear.com/atomic-habits/cheat-sheet"
+      }
     ],
     "reading_schedule": [
       {
@@ -37,8 +43,8 @@
         "chapters": "The 2nd Law: Make It Attractive (Ch. 8-11)",
         "pages": 40,
         "questions": [
-          "Clear discusses temptation bundling — pairing something you want to do with something you need to do. What is one temptation bundle that might actually work in your life? Be specific.",
-          "The book argues that we imitate the habits of three groups: the close, the many, and the powerful. Who are the people whose habits you have absorbed — for better or worse?",
+          "Clear discusses temptation bundling \u2014 pairing something you want to do with something you need to do. What is one temptation bundle that might actually work in your life? Be specific.",
+          "The book argues that we imitate the habits of three groups: the close, the many, and the powerful. Who are the people whose habits you have absorbed \u2014 for better or worse?",
           "Clear says the difference between 'have to' and 'get to' is everything. Pick one responsibility you have been dreading and try reframing it. Does it change anything?"
         ]
       },
@@ -48,8 +54,8 @@
         "pages": 40,
         "questions": [
           "The two-minute rule says any new habit should take less than two minutes to start. What is the two-minute version of a habit you have been avoiding? Is that small enough to actually do?",
-          "Clear talks about the decisive moment — the small choice that determines the trajectory of your entire day. What is your decisive moment in the morning, and how could you design it better?",
-          "Think about a bad habit you want to break. What friction could you add to make it harder to do? Be honest — the friction needs to be annoying enough to stop you."
+          "Clear talks about the decisive moment \u2014 the small choice that determines the trajectory of your entire day. What is your decisive moment in the morning, and how could you design it better?",
+          "Think about a bad habit you want to break. What friction could you add to make it harder to do? Be honest \u2014 the friction needs to be annoying enough to stop you."
         ]
       },
       {
@@ -59,7 +65,7 @@
         "questions": [
           "Clear says 'what is immediately rewarded is repeated.' Good habits tend to have delayed rewards; bad habits have immediate ones. How can you bring the reward for a good habit forward?",
           "Habit tracking works because the visual progress is its own reward. Have you ever tracked a habit? What method worked or failed, and why?",
-          "'Never miss twice' might be the most important rule in the book. Share a story of a time you missed once and let it become a slide — and what you could have done differently."
+          "'Never miss twice' might be the most important rule in the book. Share a story of a time you missed once and let it become a slide \u2014 and what you could have done differently."
         ]
       },
       {
@@ -67,7 +73,7 @@
         "chapters": "Advanced Tactics (Ch. 20)",
         "pages": 40,
         "questions": [
-          "The Goldilocks Rule says we are most motivated when working on tasks at the edge of our ability. Is there an area of your life where you are bored because things are too easy — or anxious because they are too hard?",
+          "The Goldilocks Rule says we are most motivated when working on tasks at the edge of our ability. Is there an area of your life where you are bored because things are too easy \u2014 or anxious because they are too hard?",
           "Clear recommends an annual review and an integrity report. Without waiting for the end of the year, what would a quick integrity report look like for you right now?",
           "The chapter ends with the idea that mastery is an endless cycle of refinement. Do you agree? Can the pursuit of 'better' ever become a trap?"
         ]
